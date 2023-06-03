@@ -5,6 +5,7 @@ export default function AlumnoScreen() {
   return (
     <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
       <Text>Pantalla alumnos</Text>
+      <Text>Contenido</Text>
     </View>
   );
 }

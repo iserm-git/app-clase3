@@ -5,6 +5,7 @@ export default function DocenteScreen() {
   return (
     <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
       <Text>Pantalla docentes</Text>
+      <Text>Contenido</Text>
     </View>
   );
 }
